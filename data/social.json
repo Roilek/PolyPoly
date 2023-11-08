@@ -4,6 +4,11 @@
       "name": "telegram",
       "icon": "fab fa-telegram",
       "link": "https://t.me/polypoly_epfl"
+    },
+    {
+      "name": "mail",
+      "icon": "fas fa-envelope",
+      "link": "mailto:contact@polypoly.ch"
     }
   ]
 }
