@@ -5,10 +5,16 @@ description: "this is meta description"
 draft: false
 ---
 
-Le but de PolyPoly c’est de rassembler exclusivement les projets estudiantins liés à l’EPFL mais qui ne sont pas des associations reconnues par l’école
+🎓✨ Bienvenue sur PolyPoly – le carrefour des initiatives étudiantes non-officielles de l'EPFL! ✨🎓
 
-C’est intéressant de se rassembler pour plusieurs raison :
-- c’est fun de voir ce qui se passe
-- on peut envisager des collaaaab entre projets/groupes non officiels
-- c’est une plateforme pour que tout le monde puisse rejoindre les groupes par intérêt (on mettra en avant un contact ou un lien pour rejoindre chaque projet)
-- je vous laisse trouver d’autres raisons
+Si vous bricolez sur un projet passionnant ou si vous avez formé un groupe informel pour explorer de nouvelles idées en dehors du cadre des associations reconnues, vous êtes au bon endroit! Voici pourquoi rejoindre PolyPoly, c'est la bonne idée :
+
+- 🚀 Fun garanti : Découvrez des projets étudiants innovants et originaux – l'inspiration est infinie!
+- 🤝 Collaborations créatives : Imaginez les possibilités en joignant vos forces avec d'autres esprits inventifs. Ensemble, on va plus loin!
+- 🔗 Réseau sur mesure : Trouvez votre tribu et intégrez des projets qui vous font vibrer. Ici, chaque projet a sa place et chaque place a son projet.
+- 🌟 Opportunités uniques : C'est une occasion rêvée pour mettre en lumière votre travail et attirer des talents vers vos idées.
+- 🧐 Et bien plus encore... Car chez PolyPoly, on croit fermement que les meilleures raisons sont celles que vous découvrirez par vous-même!
+
+Alors, prêt·e à rejoindre l'aventure et à enrichir notre communauté avec votre projet? Contactez-nous ou suivez le lien pour sauter dans le train en marche de l'innovation étudiante non-officielle de l'EPFL! 🚂💡
+
+_Généré par ChatGPT_
