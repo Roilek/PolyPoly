@@ -4,12 +4,12 @@
       <div class="row justify-center">
         {{ $image:= .Params.image }}
         {{ if $image }}
-        <div class="lg:col-6">
+        <div class="lg:col-6 p-6">
             {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded") }}
         </div>
-        <div class="lg:col-6">
+        <div class="lg:col-6 p-6">
           {{ else }}
-        <div class="lg:col-12">
+        <div class="lg:col-12 p-6">
           {{ end }}
           <h1 class="h1 mb-4">
             {{ .Title }}

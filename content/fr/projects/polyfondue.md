@@ -8,3 +8,6 @@ image: "/images/projects/logo_polyfondue.png"
 thumbnail: "/images/projects/logo_polyfondue.png"
 ---
 
+Se rassembler pour faire des fondues conviviales, à l'EPFL ou en dehors 😋
+
+[Telegram](https://t.me/polyfondue)
