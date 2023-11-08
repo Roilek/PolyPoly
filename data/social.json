@@ -1,0 +1,9 @@
+{
+  "main": [
+    {
+      "name": "telegram",
+      "icon": "fab fa-telegram",
+      "link": "https://t.me/polypoly_epfl"
+    }
+  ]
+}
