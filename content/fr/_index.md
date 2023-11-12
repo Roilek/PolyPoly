@@ -1,9 +1,8 @@
 ---
 # Banner
 banner:
-  title: "PolyPoly"
-  content: "Rassemblement des initiatives non associatives de l'EPFL"
-  image: "/images/banner.png"
+  content: "<h3>Place publique des projets estudiantins de l'EPFL</h3>"
+  image: "/images/banner_polypoly.png"
   button:
     enable: false
     label: "Get Started For Free"

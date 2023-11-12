@@ -12,6 +12,10 @@ Faire du chocolat chaud et le promouvoir
 Boire du chocolat chaud et le partager
 Rencontrer des gens autour d’un centre d’intérêt commun
 
-[Site web](https://chocopoly.ch/)
-[Instagram](https://www.instagram.com/chocopoly_epfl)
-[Telegram](https://t.me/joinchat/qdbBGxLvvFxmYzBk)
+<div class="flex">
+{{< social icon="fab fa-telegram" url="https://t.me/joinchat/qdbBGxLvvFxmYzBk" >}}
+
+{{< social icon="fas fa-globe" url="https://chocopoly.ch/" >}}
+
+{{< social icon="fab fa-instagram" url="https://www.instagram.com/chocopoly_epfl" >}}
+</div>

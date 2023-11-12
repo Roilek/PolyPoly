@@ -10,4 +10,4 @@ thumbnail: "/images/projects/logo_polypatat.jpeg"
 
 Fan de patat
 
-[Telegram](https://t.me/polypatat)
+{{< social icon="fab fa-telegram" url="https://t.me/polypatat">}}

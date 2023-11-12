@@ -15,4 +15,4 @@ Discuter de la vie
 Vivre dans la nature
 S’amuser !
 
-[Telegram](https://t.me/polycamping)
+{{< social icon="fab fa-telegram" url="https://t.me/polycamping">}}

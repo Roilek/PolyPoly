@@ -1,0 +1,6 @@
+{{$url := .Get "url"}}
+{{$icon := .Get "icon"}}
+
+<a class="bg-primary text-white dark:text-white dark:hover:text-gray-200 aspect-square py-1 px-2 m-1 text-xl text-center rounded hover:text-gray-200 " href="{{ $url }}" target="_blank" rel="noopener">
+    <i class="{{ $icon }}"></i>
+</a>

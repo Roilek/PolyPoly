@@ -12,4 +12,4 @@ Le rat, discret, intelligent et très proche de l'homme. 🐀
 
 Pour tout les bon plans gratuits de l'EPFL 🧀
 
-[Telegram](https://t.me/polyratepfl)
+{{< social icon="fab fa-telegram" url="https://t.me/polyratepfl">}}
