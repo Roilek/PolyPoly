@@ -1,4 +1,5 @@
 ---
+title: "PolyPoly"
 # Banner
 banner:
   content: "<h3>Place publique des projets estudiantins de l'EPFL</h3>"
