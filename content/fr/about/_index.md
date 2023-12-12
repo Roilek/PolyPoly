@@ -18,3 +18,6 @@ Si vous bricolez sur un projet passionnant ou si vous avez formé un groupe info
 Alors, prêt·e à rejoindre l'aventure et à enrichir notre communauté avec votre projet ? Contactez-nous à contact@polypoly.ch ou sur Telegram (t.me/polypoly_epfl) pour sauter dans le train en marche de l'innovation étudiante de l'EPFL! 🚂💡
 
 _Généré par ChatGPT_
+
+
+Envie de créer un PolyProjet ? Contactez-nous à contact@polypoly.ch 
