@@ -36,9 +36,9 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = false
-label = "get a quote"
-link = "contact"
+enable = true
+label = "Contact"
+link = "mailto:contact@polypoly.ch"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search

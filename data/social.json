@@ -9,6 +9,11 @@
       "name": "mail",
       "icon": "fas fa-envelope",
       "link": "mailto:contact@polypoly.ch"
+
+    }, {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/polypoly_epfl/"
     }
   ]
 }
